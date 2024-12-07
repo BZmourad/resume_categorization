@@ -1,0 +1,4 @@
+pip install streamlit
+pip install pypdf
+pip install scikit-learn
+pip install docx2pdf
